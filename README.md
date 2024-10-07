@@ -1,4 +1,4 @@
-# Illions ATLAS Group Webpage
+# Illinois ATLAS Group Webpage
 
 ## Overview
 
