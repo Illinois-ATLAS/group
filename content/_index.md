@@ -10,7 +10,7 @@ weight: 10
 {{< figure src="/images/logos/Illinois-ATLAS-Group-Logo.png" alt="Illinois ATLAS Group Logo" class="justify-center" >}}
 </center>
 
-Our group aims to understand the universe at its most fundamental level through a detailed study of high-energy proton-proton and heavy ion collisions at CERN’s Large Hadron Collider using the ATLAS detector.
+Our group aims to understand the universe at its most fundamental level through a detailed study of high-energy proton-proton and heavy ion collisions as part of the ATLAS Collaboration at CERN’s Large Hadron Collider.
 
 {{< flex-content >}}
 <--->
